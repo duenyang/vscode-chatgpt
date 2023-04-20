@@ -4,7 +4,7 @@
     "displayName": "chatGPT机器人",
     "icon": "images/logo.png",
     "description": "chatGPT插件,部分汉化",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "aiKey": "",
     "repository": {
         "url": "https://github.com"
